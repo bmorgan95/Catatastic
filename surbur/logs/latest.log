@@ -1,0 +1,1510 @@
+[05Apr2023 08:17:05.556] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.2.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[05Apr2023 08:17:05.563] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 19.0.2 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[05Apr2023 08:17:06.515] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/macre/Desktop/surbur/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[05Apr2023 08:17:07.228] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\macre\Desktop\surbur\libraries\net\minecraftforge\fmlcore\1.19.2-43.2.0\fmlcore-1.19.2-43.2.0.jar is missing mods.toml file
+[05Apr2023 08:17:07.231] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\macre\Desktop\surbur\libraries\net\minecraftforge\javafmllanguage\1.19.2-43.2.0\javafmllanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[05Apr2023 08:17:07.234] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\macre\Desktop\surbur\libraries\net\minecraftforge\lowcodelanguage\1.19.2-43.2.0\lowcodelanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[05Apr2023 08:17:07.237] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\macre\Desktop\surbur\libraries\net\minecraftforge\mclanguage\1.19.2-43.2.0\mclanguage-1.19.2-43.2.0.jar is missing mods.toml file
+[05Apr2023 08:17:07.320] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: C:\Users\macre\Desktop\surbur\mods\resourcefullib-1.1.20.jar
+[05Apr2023 08:17:07.320] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 9 dependencies adding them to mods collection
+[05Apr2023 08:17:08.997] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[05Apr2023 08:17:09.074] [main/ERROR] [mixin/]: Mixin config rottencreatures-common.mixins.json does not specify "minVersion" property
+[05Apr2023 08:17:09.075] [main/ERROR] [mixin/]: Mixin config rottencreatures.mixins.json does not specify "minVersion" property
+[05Apr2023 08:17:09.089] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[05Apr2023 08:17:09.131] [main/WARN] [mixin/]: Reference map 'createdeco.refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Apr2023 08:17:09.137] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Apr2023 08:17:09.180] [main/WARN] [mixin/]: Reference map 'dummmmmmy-forge-refmap.json' for dummmmmmy.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Apr2023 08:17:09.191] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Apr2023 08:17:09.205] [main/WARN] [mixin/]: Reference map 'steampowered.refmap.json' for extendedgears.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Apr2023 08:17:09.211] [main/WARN] [mixin/]: Reference map 'steampowered.refmap.json' for extendedflywheels.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Apr2023 08:17:09.219] [main/WARN] [mixin/]: Reference map 'carpeted-common-refmap.json' for carpeted-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Apr2023 08:17:09.220] [main/WARN] [mixin/]: Reference map 'carpeted-forge-refmap.json' for carpeted.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Apr2023 08:17:09.248] [main/WARN] [mixin/]: Reference map 'modid.refmap.json' for createtweaker.mixin.json could not be read. If this is a development environment you can ignore this message
+[05Apr2023 08:17:09.250] [main/WARN] [mixin/]: Reference map 'rottencreatures-forge-refmap.json' for rottencreatures.mixins.json could not be read. If this is a development environment you can ignore this message
+[05Apr2023 08:17:09.269] [main/WARN] [CanaryConfig/]: Option 'mixin.world.block_entity_ticking.world_border' requires 'mixin.util.world_border_listener=true' but found 'false'. Setting 'mixin.world.block_entity_ticking.world_border=false'.
+[05Apr2023 08:17:09.269] [main/INFO] [Canary/]: Loaded configuration file for Canary: 106 options available, 0 override(s) found
+[05Apr2023 08:17:12.600] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[05Apr2023 08:17:13.345] [main/INFO] [quark/]: TerraBlender not found, using injection method
+[05Apr2023 08:17:13.822] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.1.2 has initialized, ready to support your Create add-ons!
+[05Apr2023 08:17:13.824] [modloading-worker-0/INFO] [com.kyanite.paragon.Paragon/]: Registered paragon
+[05Apr2023 08:17:13.916] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod horseexpert
+[05Apr2023 08:17:13.930] [modloading-worker-0/INFO] [com.kyanite.paragon.Paragon/]: acee#1220
+[05Apr2023 08:17:13.930] [modloading-worker-0/INFO] [com.kyanite.paragon.Paragon/]: Paragon has been initialized
+[05Apr2023 08:17:13.938] [modloading-worker-0/INFO] [realmayus.aquatictorches.AquaticTorches/]: Aquatic Torches loaded.
+[05Apr2023 08:17:13.962] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 6.43.
+[05Apr2023 08:17:14.022] [modloading-worker-0/INFO] [com.kyanite.paragon.Paragon/]: Registered deeperdarker
+[05Apr2023 08:17:14.183] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker entities have been registered
+[05Apr2023 08:17:14.185] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[05Apr2023 08:17:14.198] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[05Apr2023 08:17:14.206] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[05Apr2023 08:17:14.250] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[05Apr2023 08:17:14.299] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[05Apr2023 08:17:14.302] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[05Apr2023 08:17:14.303] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[05Apr2023 08:17:14.305] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[05Apr2023 08:17:14.307] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[05Apr2023 08:17:14.325] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
+[05Apr2023 08:17:14.326] [modloading-worker-0/INFO] [KubeJS/]: Loaded dev.properties
+[05Apr2023 08:17:14.326] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[05Apr2023 08:17:14.327] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker blocks have been registered
+[05Apr2023 08:17:14.328] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker block entities have been registered
+[05Apr2023 08:17:14.329] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source ftbchunks
+[05Apr2023 08:17:14.329] [modloading-worker-0/ERROR] [KubeJS/]: Failed to load plugin dev.ftb.mods.ftbchunks.integration.kubejs.FTBChunksKubeJSPlugin from source ftbchunks: java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.integration.kubejs.FTBChunksKubeJSPlugin
+[05Apr2023 08:17:14.330] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs_botania
+[05Apr2023 08:17:14.330] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker sounds have been registered
+[05Apr2023 08:17:14.332] [modloading-worker-0/INFO] [KubeJS/]: Done in 146.0 ms
+[05Apr2023 08:17:14.537] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_map_data
+[05Apr2023 08:17:14.561] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:request_chunk_change
+[05Apr2023 08:17:14.567] [modloading-worker-0/INFO] [com.kyanite.deeperdarker.DeeperAndDarker/]: Deeper and Darker items have been registered
+[05Apr2023 08:17:14.571] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:teleport_from_map
+[05Apr2023 08:17:14.581] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:sync_tx
+[05Apr2023 08:17:14.585] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.2.0, for MC 1.19.2 with MCP 20220805.130853
+[05Apr2023 08:17:14.586] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.2.0 Initialized
+[05Apr2023 08:17:14.594] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:update_force_load_expiry
+[05Apr2023 08:17:14.597] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbchunks:server_config_request
+[05Apr2023 08:17:14.642] [modloading-worker-0/WARN] [net.blay09.mods.balm.forge.config.ForgeBalmConfig/]: Config field without expected type, will not validate list content (compressBlacklist in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Common)
+[05Apr2023 08:17:14.642] [modloading-worker-0/WARN] [net.blay09.mods.balm.forge.config.ForgeBalmConfig/]: Config field without expected type, will not validate list content (disabledAddons in net.blay09.mods.craftingtweaks.config.CraftingTweaksConfigData$Client)
+[05Apr2023 08:17:14.691] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[05Apr2023 08:17:14.775] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
+[05Apr2023 08:17:14.779] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
+[05Apr2023 08:17:14.782] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.19.2
+[05Apr2023 08:17:14.856] [modloading-worker-0/INFO] [EffectTooltips/]: Loaded config file.
+[05Apr2023 08:17:14.857] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.082 s
+[05Apr2023 08:17:14.857] [modloading-worker-0/INFO] [EffectTooltips/]: Saved config file.
+[05Apr2023 08:17:14.869] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.SpiralSpiresModule
+[05Apr2023 08:17:14.873] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mod puzzleslib
+[05Apr2023 08:17:14.876] [modloading-worker-0/INFO] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Starting...
+[05Apr2023 08:17:14.876] [modloading-worker-0/WARN] [me.treyruffy.betterf3.BetterF3Forge/]: [BetterF3] Not supported on dedicated server!
+[05Apr2023 08:17:14.888] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.PermafrostModule
+[05Apr2023 08:17:14.894] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.NoMoreLavaPocketsModule
+[05Apr2023 08:17:14.896] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.NewStoneTypesModule
+[05Apr2023 08:17:14.900] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.NetherObsidianSpikesModule
+[05Apr2023 08:17:14.903] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.MonsterBoxModule
+[05Apr2023 08:17:14.906] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.GlimmeringWealdModule
+[05Apr2023 08:17:14.911] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.FairyRingsModule
+[05Apr2023 08:17:14.914] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.CorundumModule
+[05Apr2023 08:17:14.916] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.ChorusVegetationModule
+[05Apr2023 08:17:14.921] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.BlossomTreesModule
+[05Apr2023 08:17:14.925] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.BigStoneClustersModule
+[05Apr2023 08:17:14.929] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.AzaleaWoodModule
+[05Apr2023 08:17:14.935] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.world.module.AncientWoodModule
+[05Apr2023 08:17:14.938] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ZombieVillagersOnNormalModule
+[05Apr2023 08:17:14.939] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.VillagersFollowEmeraldsModule
+[05Apr2023 08:17:14.941] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.VexesDieWithTheirMastersModule
+[05Apr2023 08:17:14.942] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.UtilityRecipesModule
+[05Apr2023 08:17:14.943] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SpongeOnWaterPlacementModule
+[05Apr2023 08:17:14.946] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SnowGolemPlayerHeadsModule
+[05Apr2023 08:17:14.947] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SlabsToBlocksModule
+[05Apr2023 08:17:14.950] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SimpleHarvestModule
+[05Apr2023 08:17:14.952] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SignEditingModule
+[05Apr2023 08:17:14.953] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ShulkerPackingModule
+[05Apr2023 08:17:14.954] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.SaferCreaturesModule
+[05Apr2023 08:17:14.956] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ReplaceScaffoldingModule
+[05Apr2023 08:17:14.957] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.RenewableSporeBlossomsModule
+[05Apr2023 08:17:14.959] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ReacharoundPlacingModule
+[05Apr2023 08:17:14.968] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.PoisonPotatoUsageModule
+[05Apr2023 08:17:14.970] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.PigLittersModule
+[05Apr2023 08:17:14.973] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.PatTheDogsModule
+[05Apr2023 08:17:14.975] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.NoDurabilityOnCosmeticsModule
+[05Apr2023 08:17:14.978] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.MoreNoteBlockSoundsModule
+[05Apr2023 08:17:14.979] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.MoreBannerLayersModule
+[05Apr2023 08:17:14.981] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.LockRotationModule
+[05Apr2023 08:17:14.983] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.HorsesSwimModule
+[05Apr2023 08:17:14.984] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.HoeHarvestingModule
+[05Apr2023 08:17:14.986] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.GrabChickensModule
+[05Apr2023 08:17:14.988] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.GoldToolsHaveFortuneModule
+[05Apr2023 08:17:14.989] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.GlassShardModule
+[05Apr2023 08:17:14.991] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.EnhancedLaddersModule
+[05Apr2023 08:17:14.997] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.EmotesModule
+[05Apr2023 08:17:15.000] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DyeableItemFramesModule
+[05Apr2023 08:17:15.002] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DragonScalesModule
+[05Apr2023 08:17:15.003] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.DoubleDoorOpeningModule
+[05Apr2023 08:17:15.004] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.CoralOnCactusModule
+[05Apr2023 08:17:15.005] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.CompassesWorkEverywhereModule
+[05Apr2023 08:17:15.007] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.CampfiresBoostElytraModule
+[05Apr2023 08:17:15.008] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.BetterElytraRocketModule
+[05Apr2023 08:17:15.009] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.AutomaticRecipeUnlockModule
+[05Apr2023 08:17:15.013] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tweaks.module.ArmedArmorStandsModule
+[05Apr2023 08:17:15.014] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.TrowelModule
+[05Apr2023 08:17:15.015] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.TorchArrowModule
+[05Apr2023 08:17:15.017] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.SlimeInABucketModule
+[05Apr2023 08:17:15.019] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.SkullPikesModule
+[05Apr2023 08:17:15.022] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.SeedPouchModule
+[05Apr2023 08:17:15.027] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.PickarangModule
+[05Apr2023 08:17:15.034] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.PathfinderMapsModule
+[05Apr2023 08:17:15.038] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.ParrotEggsModule
+[05Apr2023 08:17:15.040] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.EndermoshMusicDiscModule
+[05Apr2023 08:17:15.043] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.ColorRunesModule
+[05Apr2023 08:17:15.044] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.BundleRecipeModule
+[05Apr2023 08:17:15.045] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.BottledCloudModule
+[05Apr2023 08:17:15.048] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.BeaconRedirectionModule
+[05Apr2023 08:17:15.052] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.AncientTomesModule
+[05Apr2023 08:17:15.055] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.AmbientDiscsModule
+[05Apr2023 08:17:15.056] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.tools.module.AbacusModule
+[05Apr2023 08:17:15.061] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.WraithModule
+[05Apr2023 08:17:15.063] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.ToretoiseModule
+[05Apr2023 08:17:15.065] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.StonelingsModule
+[05Apr2023 08:17:15.067] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.ShibaModule
+[05Apr2023 08:17:15.070] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.FoxhoundModule
+[05Apr2023 08:17:15.072] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.ForgottenModule
+[05Apr2023 08:17:15.076] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.mobs.module.CrabsModule
+[05Apr2023 08:17:15.077] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.QuickArmorSwappingModule
+[05Apr2023 08:17:15.079] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.ItemSharingModule
+[05Apr2023 08:17:15.080] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.InventorySortingModule
+[05Apr2023 08:17:15.081] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.HotbarChangerModule
+[05Apr2023 08:17:15.084] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.ExpandedItemInteractionsModule
+[05Apr2023 08:17:15.085] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.EasyTransferingModule
+[05Apr2023 08:17:15.087] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.management.module.AutomaticTookRestockModule
+[05Apr2023 08:17:15.091] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.SpawnerReplacerModule
+[05Apr2023 08:17:15.092] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.OverlayShaderModule
+[05Apr2023 08:17:15.092] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.NarratorReadoutModule
+[05Apr2023 08:17:15.094] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.GameNerfsModule
+[05Apr2023 08:17:15.096] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.EnchantmentsBegoneModule
+[05Apr2023 08:17:15.097] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.experimental.module.AdjustableChatModule
+[05Apr2023 08:17:15.100] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.WoolShutsUpMinecartsModule
+[05Apr2023 08:17:15.102] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.VariantAnimalTexturesModule
+[05Apr2023 08:17:15.103] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.UsesForCursesModule
+[05Apr2023 08:17:15.105] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.UsageTickerModule
+[05Apr2023 08:17:15.105] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.SoulCandlesModule
+[05Apr2023 08:17:15.107] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.MicrocraftingHelperModule
+[05Apr2023 08:17:15.108] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.LongRangePickBlockModule
+[05Apr2023 08:17:15.110] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.ImprovedTooltipsModule
+[05Apr2023 08:17:15.111] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.GreenerGrassModule
+[05Apr2023 08:17:15.114] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.ElytraIndicatorModule
+[05Apr2023 08:17:15.118] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.ChestSearchingModule
+[05Apr2023 08:17:15.120] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.CameraModule
+[05Apr2023 08:17:15.121] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.BackButtonKeybindModule
+[05Apr2023 08:17:15.122] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.client.module.AutoWalkKeybindModule
+[05Apr2023 08:17:15.123] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.WoodenPostsModule
+[05Apr2023 08:17:15.125] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VerticalSlabsModule
+[05Apr2023 08:17:15.130] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VerticalPlanksModule
+[05Apr2023 08:17:15.132] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantLaddersModule
+[05Apr2023 08:17:15.135] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantFurnacesModule
+[05Apr2023 08:17:15.142] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantChestsModule
+[05Apr2023 08:17:15.151] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.VariantBookshelvesModule
+[05Apr2023 08:17:15.152] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.ThatchModule
+[05Apr2023 08:17:15.152] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.SturdyStoneModule
+[05Apr2023 08:17:15.153] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.StoolsModule
+[05Apr2023 08:17:15.154] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.SoulSandstoneModule
+[05Apr2023 08:17:15.155] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.ShinglesModule
+[05Apr2023 08:17:15.156] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.ShearVinesModule
+[05Apr2023 08:17:15.159] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.RopeModule
+[05Apr2023 08:17:15.163] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.RawMetalBricksModule
+[05Apr2023 08:17:15.164] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.NetherBrickFenceGateModule
+[05Apr2023 08:17:15.165] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MoreStoneVariantsModule
+[05Apr2023 08:17:15.167] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MorePottedPlantsModule
+[05Apr2023 08:17:15.168] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MoreMudBlocksModule
+[05Apr2023 08:17:15.170] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MoreBrickTypesModule
+[05Apr2023 08:17:15.172] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.MidoriModule
+[05Apr2023 08:17:15.173] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.LeafCarpetModule
+[05Apr2023 08:17:15.175] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.JapanesePaletteModule
+[05Apr2023 08:17:15.177] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.IndustrialPaletteModule
+[05Apr2023 08:17:15.180] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.HollowLogsModule
+[05Apr2023 08:17:15.181] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.HedgesModule
+[05Apr2023 08:17:15.182] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.GrateModule
+[05Apr2023 08:17:15.186] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.GoldBarsModule
+[05Apr2023 08:17:15.189] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.GlassItemFrameModule
+[05Apr2023 08:17:15.192] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.FramedGlassModule
+[05Apr2023 08:17:15.193] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.DuskboundBlocksModule
+[05Apr2023 08:17:15.195] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.CompressedBlocksModule
+[05Apr2023 08:17:15.197] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.CelebratoryLampsModule
+[05Apr2023 08:17:15.198] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.building.module.BambooBackportModule
+[05Apr2023 08:17:15.198] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.RedstoneRandomizerModule
+[05Apr2023 08:17:15.199] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.PistonsMoveTileEntitiesModule
+[05Apr2023 08:17:15.200] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.ObsidianPlateModule
+[05Apr2023 08:17:15.201] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.MetalButtonsModule
+[05Apr2023 08:17:15.202] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.JukeboxAutomationModule
+[05Apr2023 08:17:15.203] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.IronRodModule
+[05Apr2023 08:17:15.206] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.GravisandModule
+[05Apr2023 08:17:15.211] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.FeedingTroughModule
+[05Apr2023 08:17:15.214] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.EnderWatcherModule
+[05Apr2023 08:17:15.215] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.DispensersPlaceBlocksModule
+[05Apr2023 08:17:15.216] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.ChuteModule
+[05Apr2023 08:17:15.216] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.content.automation.module.ChainsConnectBlocksModule
+[05Apr2023 08:17:15.218] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.TotemOfHoldingModule
+[05Apr2023 08:17:15.222] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.TinyPotatoModule
+[05Apr2023 08:17:15.226] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.PipesModule
+[05Apr2023 08:17:15.247] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.MatrixEnchantingModule
+[05Apr2023 08:17:15.249] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.MagnetsModule
+[05Apr2023 08:17:15.252] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.CrateModule
+[05Apr2023 08:17:15.255] [modloading-worker-0/INFO] [quark/]: Found Quark module class vazkii.quark.addons.oddities.module.BackpackModule
+[05Apr2023 08:17:15.258] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step CONSTRUCT
+[05Apr2023 08:17:15.287] [modloading-worker-0/INFO] [KubeJS Startup/]: startup_scripts:script.js:3: Hello, World! (You will only see this line once in console, during startup)
+[05Apr2023 08:17:15.294] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:script.js in 0.082 s
+[05Apr2023 08:17:15.297] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 0.437 s
+[05Apr2023 08:17:15.332] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
+[05Apr2023 08:17:15.337] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
+[05Apr2023 08:17:25.338] [ForkJoinPool.commonPool-worker-1/INFO] [friendsandfoes/]: [Friends&Foes] An update is available! You are using 1.6.8 version, but the latest version is 1.8.0.
+[05Apr2023 08:17:25.414] [modloading-worker-0/INFO] [HammerLib/]: Registered charge handler for type org.zeith.hammerlib.util.charging.fluid.FluidCharge - org.zeith.hammerlib.util.charging.impl.FluidChargeHandler@1794ce63
+[05Apr2023 08:17:25.414] [modloading-worker-0/INFO] [HammerLib/]: Registered charge handler for type org.zeith.hammerlib.util.charging.fe.FECharge - org.zeith.hammerlib.util.charging.impl.FEChargeHandler@61f5f45
+[05Apr2023 08:17:25.418] [modloading-worker-0/INFO] [HammerLib/]: Registered inventory lister org.zeith.hammerlib.util.charging.impl.VanillaPlayerInvLister
+[05Apr2023 08:17:25.429] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/TileTestMachine; from hammerlib to register it's stuff.
+[05Apr2023 08:17:25.429] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/RecipeTestMachine; from hammerlib to register it's stuff.
+[05Apr2023 08:17:25.429] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/test/machine/BlockTestMachine; from hammerlib to register it's stuff.
+[05Apr2023 08:17:25.429] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/core/items/ItemWrench; from hammerlib to register it's stuff.
+[05Apr2023 08:17:25.429] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/hammerlib/api/forge/ContainerAPI; from hammerlib to register it's stuff.
+[05Apr2023 08:17:25.430] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/botanicadds/particle/BoltParticleType; from botanicadds to register it's stuff.
+[05Apr2023 08:17:25.430] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/botanicadds/init/TilesBA; from botanicadds to register it's stuff.
+[05Apr2023 08:17:25.430] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/botanicadds/init/RecipeTypesBA; from botanicadds to register it's stuff.
+[05Apr2023 08:17:25.430] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/botanicadds/init/ItemsBA; from botanicadds to register it's stuff.
+[05Apr2023 08:17:25.430] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/botanicadds/init/FlowersBA; from botanicadds to register it's stuff.
+[05Apr2023 08:17:25.430] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/botanicadds/init/BlocksBA; from botanicadds to register it's stuff.
+[05Apr2023 08:17:25.431] [modloading-worker-0/INFO] [HammerLib/]: Hooked Lorg/zeith/botanicadds/crafting/RecipeAttuneTesseract; from botanicadds to register it's stuff.
+[05Apr2023 08:17:25.449] [modloading-worker-0/INFO] [HammerLib/]: Injecting setup into org.zeith.hammerlib.net.Network
+[05Apr2023 08:17:25.449] [modloading-worker-0/INFO] [HammerLib/]: Injecting setup into org.zeith.botanicadds.init.TagsBA$EntityTypes
+[05Apr2023 08:17:25.450] [modloading-worker-0/INFO] [HammerLib/]: Injecting setup into org.zeith.botanicadds.init.TagsBA$Blocks
+[05Apr2023 08:17:25.452] [modloading-worker-0/INFO] [HammerLib/]: Injecting client-setup into org.zeith.botanicadds.init.IslandTypesBA
+[05Apr2023 08:17:25.625] [main/INFO] [quark/]: Dispatching Module Step REGISTER
+[05Apr2023 08:17:26.023] [main/INFO] [quark/]: Dispatching Module Step POST_REGISTER
+[05Apr2023 08:17:27.020] [main/WARN] [dev.architectury.registry.registries.forge.RegistriesImpl/]: Registry entry listened Registry Entry [minecraft:block / createchunkloading:chunk_loader] was not realized!
+[05Apr2023 08:17:28.417] [main/INFO] [moonlight/]: Initialized block sets in 9ms
+[05Apr2023 08:17:29.062] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_type: The object TestMachineRecipeType{recipeTypeId=hammerlib:test_machine,recipeSerializerId=null} has been registered twice for the same name hammerlib:test_machine.
+[05Apr2023 08:17:29.068] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_type: The object GaiaPlateRecipeType{recipeTypeId=botanicadds:gaia_plate,recipeSerializerId=null} has been registered twice for the same name botanicadds:gaia_plate.
+[05Apr2023 08:17:29.075] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object TestMachineRecipeType{recipeTypeId=hammerlib:test_machine,recipeSerializerId=hammerlib:test_machine} has been registered twice for the same name hammerlib:test_machine.
+[05Apr2023 08:17:29.096] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object GaiaPlateRecipeType{recipeTypeId=botanicadds:gaia_plate,recipeSerializerId=botanicadds:gaia_plate} has been registered twice for the same name botanicadds:gaia_plate.
+[05Apr2023 08:17:29.748] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\macre\Desktop\surbur\config\rottencreatures-common.toml is not correct. Correcting
+[05Apr2023 08:17:29.748] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Mob Spawns.Immortal Chance was corrected from 0.025 to its default, 0.025. 
+[05Apr2023 08:17:29.762] [main/INFO] [quark/]: Loading Module Redstone Randomizer
+[05Apr2023 08:17:29.762] [main/INFO] [quark/]: Loading Module Pistons Move Tile Entities
+[05Apr2023 08:17:29.763] [main/INFO] [quark/]: Loading Module Obsidian Plate
+[05Apr2023 08:17:29.763] [main/INFO] [quark/]: Loading Module Metal Buttons
+[05Apr2023 08:17:29.763] [main/INFO] [quark/]: Loading Module Jukebox Automation
+[05Apr2023 08:17:29.764] [main/INFO] [quark/]: Loading Module Iron Rod
+[05Apr2023 08:17:29.764] [main/INFO] [quark/]: Loading Module Gravisand
+[05Apr2023 08:17:29.764] [main/INFO] [quark/]: Loading Module Feeding Trough
+[05Apr2023 08:17:29.765] [main/INFO] [quark/]: Loading Module Ender Watcher
+[05Apr2023 08:17:29.766] [main/INFO] [quark/]: Loading Module Dispensers Place Blocks
+[05Apr2023 08:17:29.766] [main/INFO] [quark/]: Loading Module Chute
+[05Apr2023 08:17:29.766] [main/INFO] [quark/]: Loading Module Chains Connect Blocks
+[05Apr2023 08:17:29.766] [main/INFO] [quark/]: Loading Module Wooden Posts
+[05Apr2023 08:17:29.766] [main/INFO] [quark/]: Loading Module Vertical Slabs
+[05Apr2023 08:17:29.766] [main/INFO] [quark/]: Loading Module Vertical Planks
+[05Apr2023 08:17:29.766] [main/INFO] [quark/]: Loading Module Variant Ladders
+[05Apr2023 08:17:29.767] [main/INFO] [quark/]: Loading Module Variant Furnaces
+[05Apr2023 08:17:29.767] [main/INFO] [quark/]: Loading Module Variant Chests
+[05Apr2023 08:17:29.768] [main/INFO] [quark/]: Loading Module Variant Bookshelves
+[05Apr2023 08:17:29.768] [main/INFO] [quark/]: Loading Module Thatch
+[05Apr2023 08:17:29.768] [main/INFO] [quark/]: Loading Module Sturdy Stone
+[05Apr2023 08:17:29.768] [main/INFO] [quark/]: Loading Module Stools
+[05Apr2023 08:17:29.768] [main/INFO] [quark/]: Loading Module Soul Sandstone
+[05Apr2023 08:17:29.769] [main/INFO] [quark/]: Loading Module Shingles
+[05Apr2023 08:17:29.769] [main/INFO] [quark/]: Loading Module Shear Vines
+[05Apr2023 08:17:29.769] [main/INFO] [quark/]: Loading Module Rope
+[05Apr2023 08:17:29.769] [main/INFO] [quark/]: Loading Module Raw Metal Bricks
+[05Apr2023 08:17:29.769] [main/INFO] [quark/]: Loading Module Nether Brick Fence Gate
+[05Apr2023 08:17:29.769] [main/INFO] [quark/]: Loading Module More Stone Variants
+[05Apr2023 08:17:29.770] [main/INFO] [quark/]: Loading Module More Potted Plants
+[05Apr2023 08:17:29.770] [main/INFO] [quark/]: Loading Module More Mud Blocks
+[05Apr2023 08:17:29.770] [main/INFO] [quark/]: Loading Module More Brick Types
+[05Apr2023 08:17:29.770] [main/INFO] [quark/]: Loading Module Midori
+[05Apr2023 08:17:29.770] [main/INFO] [quark/]: Loading Module Leaf Carpet
+[05Apr2023 08:17:29.770] [main/INFO] [quark/]: Loading Module Japanese Palette
+[05Apr2023 08:17:29.770] [main/INFO] [quark/]: Loading Module Industrial Palette
+[05Apr2023 08:17:29.771] [main/INFO] [quark/]: Loading Module Hollow Logs
+[05Apr2023 08:17:29.772] [main/INFO] [quark/]: Loading Module Hedges
+[05Apr2023 08:17:29.773] [main/INFO] [quark/]: Loading Module Grate
+[05Apr2023 08:17:29.773] [main/INFO] [quark/]: Loading Module Gold Bars
+[05Apr2023 08:17:29.773] [main/INFO] [quark/]: Loading Module Glass Item Frame
+[05Apr2023 08:17:29.773] [main/INFO] [quark/]: Loading Module Framed Glass
+[05Apr2023 08:17:29.773] [main/INFO] [quark/]: Loading Module Duskbound Blocks
+[05Apr2023 08:17:29.773] [main/INFO] [quark/]: Loading Module Compressed Blocks
+[05Apr2023 08:17:29.774] [main/INFO] [quark/]: Loading Module Celebratory Lamps
+[05Apr2023 08:17:29.774] [main/INFO] [quark/]: Loading Module Bamboo Backport
+[05Apr2023 08:17:29.774] [main/INFO] [quark/]: Loading Module Quick Armor Swapping
+[05Apr2023 08:17:29.774] [main/INFO] [quark/]: Loading Module Item Sharing
+[05Apr2023 08:17:29.774] [main/INFO] [quark/]: Loading Module Inventory Sorting
+[05Apr2023 08:17:29.774] [main/INFO] [quark/]: Loading Module Hotbar Changer
+[05Apr2023 08:17:29.775] [main/INFO] [quark/]: Loading Module Expanded Item Interactions
+[05Apr2023 08:17:29.775] [main/INFO] [quark/]: Loading Module Easy Transfering
+[05Apr2023 08:17:29.775] [main/INFO] [quark/]: Loading Module Automatic Took Restock
+[05Apr2023 08:17:29.776] [main/INFO] [quark/]: Loading Module Trowel
+[05Apr2023 08:17:29.776] [main/INFO] [quark/]: Loading Module Torch Arrow
+[05Apr2023 08:17:29.776] [main/INFO] [quark/]: Loading Module Slime In A Bucket
+[05Apr2023 08:17:29.776] [main/INFO] [quark/]: Loading Module Skull Pikes
+[05Apr2023 08:17:29.777] [main/INFO] [quark/]: Loading Module Seed Pouch
+[05Apr2023 08:17:29.777] [main/INFO] [quark/]: Loading Module Pickarang
+[05Apr2023 08:17:29.777] [main/INFO] [quark/]: Loading Module Pathfinder Maps
+[05Apr2023 08:17:29.778] [main/INFO] [quark/]: Loading Module Parrot Eggs
+[05Apr2023 08:17:29.778] [main/INFO] [quark/]: Loading Module Endermosh Music Disc
+[05Apr2023 08:17:29.778] [main/INFO] [quark/]: Loading Module Color Runes
+[05Apr2023 08:17:29.779] [main/INFO] [quark/]: Loading Module Bundle Recipe
+[05Apr2023 08:17:29.779] [main/INFO] [quark/]: Loading Module Bottled Cloud
+[05Apr2023 08:17:29.780] [main/INFO] [quark/]: Loading Module Beacon Redirection
+[05Apr2023 08:17:29.780] [main/INFO] [quark/]: Loading Module Ancient Tomes
+[05Apr2023 08:17:29.781] [main/INFO] [quark/]: Loading Module Ambient Discs
+[05Apr2023 08:17:29.782] [main/INFO] [quark/]: Loading Module Abacus
+[05Apr2023 08:17:29.782] [main/INFO] [quark/]: Loading Module Zombie Villagers On Normal
+[05Apr2023 08:17:29.782] [main/INFO] [quark/]: Loading Module Villagers Follow Emeralds
+[05Apr2023 08:17:29.782] [main/INFO] [quark/]: Loading Module Vexes Die With Their Masters
+[05Apr2023 08:17:29.783] [main/INFO] [quark/]: Loading Module Utility Recipes
+[05Apr2023 08:17:29.783] [main/INFO] [quark/]: Loading Module Sponge On Water Placement
+[05Apr2023 08:17:29.783] [main/INFO] [quark/]: Loading Module Snow Golem Player Heads
+[05Apr2023 08:17:29.784] [main/INFO] [quark/]: Loading Module Slabs To Blocks
+[05Apr2023 08:17:29.785] [main/INFO] [quark/]: Loading Module Simple Harvest
+[05Apr2023 08:17:29.785] [main/INFO] [quark/]: Loading Module Sign Editing
+[05Apr2023 08:17:29.785] [main/INFO] [quark/]: Loading Module Shulker Packing
+[05Apr2023 08:17:29.786] [main/INFO] [quark/]: Loading Module Safer Creatures
+[05Apr2023 08:17:29.786] [main/INFO] [quark/]: Loading Module Replace Scaffolding
+[05Apr2023 08:17:29.786] [main/INFO] [quark/]: Loading Module Renewable Spore Blossoms
+[05Apr2023 08:17:29.788] [main/INFO] [quark/]: Loading Module Reacharound Placing
+[05Apr2023 08:17:29.788] [main/INFO] [quark/]: Loading Module Poison Potato Usage
+[05Apr2023 08:17:29.789] [main/INFO] [quark/]: Loading Module Pig Litters
+[05Apr2023 08:17:29.789] [main/INFO] [quark/]: Loading Module Pat The Dogs
+[05Apr2023 08:17:29.789] [main/INFO] [quark/]: Loading Module No Durability On Cosmetics
+[05Apr2023 08:17:29.790] [main/INFO] [quark/]: Loading Module More Note Block Sounds
+[05Apr2023 08:17:29.790] [main/INFO] [quark/]: Loading Module More Banner Layers
+[05Apr2023 08:17:29.790] [main/INFO] [quark/]: Loading Module Lock Rotation
+[05Apr2023 08:17:29.791] [main/INFO] [quark/]: Loading Module Horses Swim
+[05Apr2023 08:17:29.791] [main/INFO] [quark/]: Loading Module Hoe Harvesting
+[05Apr2023 08:17:29.791] [main/INFO] [quark/]: Loading Module Grab Chickens
+[05Apr2023 08:17:29.791] [main/INFO] [quark/]: Loading Module Gold Tools Have Fortune
+[05Apr2023 08:17:29.792] [main/INFO] [quark/]: Loading Module Glass Shard
+[05Apr2023 08:17:29.792] [main/INFO] [quark/]: Loading Module Enhanced Ladders
+[05Apr2023 08:17:29.792] [main/INFO] [quark/]: Loading Module Emotes
+[05Apr2023 08:17:29.792] [main/INFO] [quark/]: Loading Module Dyeable Item Frames
+[05Apr2023 08:17:29.793] [main/INFO] [quark/]: Loading Module Dragon Scales
+[05Apr2023 08:17:29.793] [main/INFO] [quark/]: Loading Module Double Door Opening
+[05Apr2023 08:17:29.793] [main/INFO] [quark/]: Loading Module Coral On Cactus
+[05Apr2023 08:17:29.793] [main/INFO] [quark/]: Loading Module Compasses Work Everywhere
+[05Apr2023 08:17:29.793] [main/INFO] [quark/]: Loading Module Campfires Boost Elytra
+[05Apr2023 08:17:29.794] [main/INFO] [quark/]: Loading Module Better Elytra Rocket
+[05Apr2023 08:17:29.794] [main/INFO] [quark/]: Loading Module Automatic Recipe Unlock
+[05Apr2023 08:17:29.794] [main/INFO] [quark/]: Loading Module Armed Armor Stands
+[05Apr2023 08:17:29.795] [main/INFO] [quark/]: Loading Module Spiral Spires
+[05Apr2023 08:17:29.795] [main/INFO] [quark/]: Loading Module Permafrost
+[05Apr2023 08:17:29.795] [main/INFO] [quark/]: Loading Module No More Lava Pockets
+[05Apr2023 08:17:29.795] [main/INFO] [quark/]: Loading Module New Stone Types
+[05Apr2023 08:17:29.796] [main/INFO] [quark/]: Loading Module Nether Obsidian Spikes
+[05Apr2023 08:17:29.796] [main/INFO] [quark/]: Loading Module Monster Box
+[05Apr2023 08:17:29.796] [main/INFO] [quark/]: Loading Module Glimmering Weald
+[05Apr2023 08:17:29.796] [main/INFO] [quark/]: Loading Module Fairy Rings
+[05Apr2023 08:17:29.796] [main/INFO] [quark/]: Loading Module Corundum
+[05Apr2023 08:17:29.796] [main/INFO] [quark/]: Loading Module Chorus Vegetation
+[05Apr2023 08:17:29.796] [main/INFO] [quark/]: Loading Module Blossom Trees
+[05Apr2023 08:17:29.797] [main/INFO] [quark/]: Loading Module Big Stone Clusters
+[05Apr2023 08:17:29.797] [main/INFO] [quark/]: Loading Module Azalea Wood
+[05Apr2023 08:17:29.797] [main/INFO] [quark/]: Loading Module Ancient Wood
+[05Apr2023 08:17:29.797] [main/INFO] [quark/]: Loading Module Wraith
+[05Apr2023 08:17:29.797] [main/INFO] [quark/]: Loading Module Toretoise
+[05Apr2023 08:17:29.798] [main/INFO] [quark/]: Loading Module Stonelings
+[05Apr2023 08:17:29.798] [main/INFO] [quark/]: Loading Module Shiba
+[05Apr2023 08:17:29.798] [main/INFO] [quark/]: Loading Module Foxhound
+[05Apr2023 08:17:29.799] [main/INFO] [quark/]: Loading Module Forgotten
+[05Apr2023 08:17:29.799] [main/INFO] [quark/]: Loading Module Crabs
+[05Apr2023 08:17:29.799] [main/INFO] [quark/]: Loading Module Wool Shuts Up Minecarts
+[05Apr2023 08:17:29.799] [main/INFO] [quark/]: Loading Module Variant Animal Textures
+[05Apr2023 08:17:29.799] [main/INFO] [quark/]: Loading Module Uses For Curses
+[05Apr2023 08:17:29.800] [main/INFO] [quark/]: Loading Module Usage Ticker
+[05Apr2023 08:17:29.800] [main/INFO] [quark/]: Loading Module Soul Candles
+[05Apr2023 08:17:29.800] [main/INFO] [quark/]: Loading Module Microcrafting Helper
+[05Apr2023 08:17:29.800] [main/INFO] [quark/]: Loading Module Long Range Pick Block
+[05Apr2023 08:17:29.800] [main/INFO] [quark/]: Loading Module Improved Tooltips
+[05Apr2023 08:17:29.800] [main/INFO] [quark/]: Loading Module Greener Grass
+[05Apr2023 08:17:29.800] [main/INFO] [quark/]: Loading Module Elytra Indicator
+[05Apr2023 08:17:29.800] [main/INFO] [quark/]: Loading Module Chest Searching
+[05Apr2023 08:17:29.801] [main/INFO] [quark/]: Loading Module Camera
+[05Apr2023 08:17:29.801] [main/INFO] [quark/]: Loading Module Back Button Keybind
+[05Apr2023 08:17:29.801] [main/INFO] [quark/]: Loading Module Auto Walk Keybind
+[05Apr2023 08:17:29.801] [main/INFO] [quark/]: Loading Module Spawner Replacer
+[05Apr2023 08:17:29.801] [main/INFO] [quark/]: Loading Module Overlay Shader
+[05Apr2023 08:17:29.801] [main/INFO] [quark/]: Loading Module Narrator Readout
+[05Apr2023 08:17:29.801] [main/INFO] [quark/]: Loading Module Game Nerfs
+[05Apr2023 08:17:29.802] [main/INFO] [quark/]: Loading Module Enchantments Begone
+[05Apr2023 08:17:29.803] [main/INFO] [quark/]: Loading Module Adjustable Chat
+[05Apr2023 08:17:29.803] [main/INFO] [quark/]: Loading Module Totem Of Holding
+[05Apr2023 08:17:29.803] [main/INFO] [quark/]: Loading Module Tiny Potato
+[05Apr2023 08:17:29.804] [main/INFO] [quark/]: Loading Module Pipes
+[05Apr2023 08:17:29.804] [main/INFO] [quark/]: Loading Module Matrix Enchanting
+[05Apr2023 08:17:29.804] [main/INFO] [quark/]: Loading Module Magnets
+[05Apr2023 08:17:29.804] [main/INFO] [quark/]: Loading Module Crate
+[05Apr2023 08:17:29.804] [main/INFO] [quark/]: Loading Module Backpack
+[05Apr2023 08:17:29.804] [main/INFO] [quark/]: Dispatching Module Step CONFIG_CHANGED
+[05Apr2023 08:17:29.820] [modloading-worker-0/INFO] [blueduck.dustrial.dustrialdecor.DustrialDecorMod/]: HELLO FROM PREINIT
+[05Apr2023 08:17:29.837] [modloading-worker-0/INFO] [HammerLib/]: Setup HammerLib networking!
+[05Apr2023 08:17:29.839] [modloading-worker-0/INFO] [Nature's Aura/]: Loading compat module for mod patchouli
+[05Apr2023 08:17:29.839] [modloading-worker-0/INFO] [Nature's Aura/]: Loading compat module for mod curios
+[05Apr2023 08:17:29.841] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Version 10.3.6 initializing...
+[05Apr2023 08:17:29.847] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Tools' module.
+[05Apr2023 08:17:29.851] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Loaded 'Mekanism: Generators' module.
+[05Apr2023 08:17:29.852] [modloading-worker-0/INFO] [createplus/]: Create Plus Setup
+[05Apr2023 08:17:29.859] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hammerlib] Starting version check at http://h.zeith.org/api/fmluc/247401
+[05Apr2023 08:17:29.866] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[05Apr2023 08:17:29.866] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[05Apr2023 08:17:29.867] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[05Apr2023 08:17:29.867] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[05Apr2023 08:17:29.867] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[05Apr2023 08:17:29.867] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[05Apr2023 08:17:29.867] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[05Apr2023 08:17:29.868] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[05Apr2023 08:17:29.868] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[05Apr2023 08:17:29.868] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[05Apr2023 08:17:29.883] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step CONFIG_CHANGED
+[05Apr2023 08:17:29.887] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step SETUP
+[05Apr2023 08:17:29.905] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[05Apr2023 08:17:29.937] [modloading-worker-0/INFO] [Nature's Aura/]: -- Nature's Aura Fake Player Information --
+[05Apr2023 08:17:29.937] [modloading-worker-0/INFO] [Nature's Aura/]: Name: [Minecraft]
+[05Apr2023 08:17:29.938] [modloading-worker-0/INFO] [Nature's Aura/]: UUID: 41C82C87-7AfB-4024-BA57-13D2C99CAE77
+[05Apr2023 08:17:29.939] [modloading-worker-0/INFO] [Nature's Aura/]: -------------------------------------------
+[05Apr2023 08:17:29.941] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[05Apr2023 08:17:29.941] [modloading-worker-0/INFO] [mekanism.common.Mekanism/]: Mod loaded.
+[05Apr2023 08:17:30.095] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@335031f8]
+[05Apr2023 08:17:30.098] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.12+6240-87f4ae1) is loaded
+[05Apr2023 08:17:30.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hammerlib] Found status: UP_TO_DATE Current: 19.3.56 Target: null
+[05Apr2023 08:17:30.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [horseexpert] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/horseexpert.json
+[05Apr2023 08:17:30.127] [main/INFO] [supplementaries/]: Finished mod setup in: [0, 0, 4, 1, 1, 7, 0, 0, 1, 0, 0, 3, 2, 0] ms
+[05Apr2023 08:17:30.138] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/Sheets for invalid dist DEDICATED_SERVER
+[05Apr2023 08:17:30.210] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [horseexpert] Found status: UP_TO_DATE Current: 4.0.0 Target: null
+[05Apr2023 08:17:30.210] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.19.2
+[05Apr2023 08:17:30.217] [main/INFO] [moonlight/]: Initialized color sets in 28ms
+[05Apr2023 08:17:30.284] [modloading-worker-0/INFO] [com.choicetheorem.ctov.ctov/]: Got IMC []
+[05Apr2023 08:17:30.285] [modloading-worker-0/INFO] [net.blay09.mods.craftingtweaks.IMCHandler/]: refinedstorage has registered com.refinedmods.refinedstorage.container.GridContainerMenu for CraftingTweaks
+[05Apr2023 08:17:30.289] [modloading-worker-0/INFO] [quark/]: Dispatching Module Step LOAD_COMPLETE
+[05Apr2023 08:17:30.290] [modloading-worker-0/ERROR] [net.minecraft.Util/]: Adding duplicate key 'ResourceKey[minecraft:worldgen/template_pool / minecraft:village/common/animals]' to registry
+[05Apr2023 08:17:30.293] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[05Apr2023 08:17:30.294] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[05Apr2023 08:17:30.299] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[05Apr2023 08:17:30.304] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.lootr.LootrPlugin
+[05Apr2023 08:17:30.306] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.general.GeneralPlugin
+[05Apr2023 08:17:30.307] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.create.CreatePlugin
+[05Apr2023 08:17:30.309] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.ForgeJadeWaystonesPlugin
+[05Apr2023 08:17:30.309] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at mekanism.common.integration.lookingat.jade.MekanismJadePlugin
+[05Apr2023 08:17:30.310] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
+[05Apr2023 08:17:30.311] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[05Apr2023 08:17:30.316] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[05Apr2023 08:17:30.319] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[05Apr2023 08:17:30.320] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[05Apr2023 08:17:30.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 10.0+7 Target: 10.0+7
+[05Apr2023 08:17:30.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[05Apr2023 08:17:30.872] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.2 Target: null
+[05Apr2023 08:17:30.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [colouredtooltips] Starting version check at https://updates.blamejared.com/get?n=colouredtooltips&gv=1.19.2
+[05Apr2023 08:17:30.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [colouredtooltips] Found status: BETA_OUTDATED Current: 18.1.3 Target: 18.1.4
+[05Apr2023 08:17:30.993] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[05Apr2023 08:17:31.002] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: OUTDATED Current: 1.19.2-1.5.2 Target: 1.19.2-1.5.5
+[05Apr2023 08:17:31.004] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cdl] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/CDL.json
+[05Apr2023 08:17:31.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cdl] Found status: UP_TO_DATE Current: 2.1.2 Target: null
+[05Apr2023 08:17:31.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[05Apr2023 08:17:32.933] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05Apr2023 08:17:34.957] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/macre/Desktop/surbur/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23423!/assets/.mcassetsroot' uses unexpected schema
+[05Apr2023 08:17:34.958] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/C:/Users/macre/Desktop/surbur/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23423!/data/.mcassetsroot' uses unexpected schema
+[05Apr2023 08:17:35.286] [main/INFO] [supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 181 ms
+[05Apr2023 08:17:35.409] [main/INFO] [supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 71 ms
+[05Apr2023 08:17:35.518] [main/INFO] [KubeJS Server/]: server_scripts:script.js:3: Hello, World! (You will see this line every time server resources reload)
+[05Apr2023 08:17:35.519] [main/INFO] [KubeJS Server/]: Loaded script server_scripts:script.js in 0.001 s
+[05Apr2023 08:17:35.519] [main/INFO] [KubeJS Server/]: Loaded 1/1 KubeJS server scripts in 0.004 s
+[05Apr2023 08:17:35.519] [main/INFO] [KubeJS Server/]: Scripts loaded
+[05Apr2023 08:17:35.523] [main/INFO] [KubeJS/]: Registered custom recipe handler for type kubejs:shaped
+[05Apr2023 08:17:35.523] [main/INFO] [KubeJS/]: Registered custom recipe handler for type kubejs:shapeless
+[05Apr2023 08:17:35.523] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:crafting_shaped
+[05Apr2023 08:17:35.523] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:crafting_shapeless
+[05Apr2023 08:17:35.524] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:stonecutting
+[05Apr2023 08:17:35.524] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:smelting
+[05Apr2023 08:17:35.524] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:blasting
+[05Apr2023 08:17:35.525] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:smoking
+[05Apr2023 08:17:35.525] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:campfire_cooking
+[05Apr2023 08:17:35.525] [main/INFO] [KubeJS/]: Registered custom recipe handler for type minecraft:smithing
+[05Apr2023 08:17:35.526] [main/INFO] [KubeJS/]: Registered custom recipe handler for type botania:mana_infusion
+[05Apr2023 08:17:35.526] [main/INFO] [KubeJS/]: Registered custom recipe handler for type botania:elven_trade
+[05Apr2023 08:17:35.527] [main/INFO] [KubeJS/]: Registered custom recipe handler for type botania:pure_daisy
+[05Apr2023 08:17:35.527] [main/INFO] [KubeJS/]: Registered custom recipe handler for type botania:brew
+[05Apr2023 08:17:35.528] [main/INFO] [KubeJS/]: Registered custom recipe handler for type botania:petal_apothecary
+[05Apr2023 08:17:35.528] [main/INFO] [KubeJS/]: Registered custom recipe handler for type botania:runic_altar
+[05Apr2023 08:17:35.529] [main/INFO] [KubeJS/]: Registered custom recipe handler for type botania:terra_plate
+[05Apr2023 08:17:35.529] [main/INFO] [KubeJS/]: Registered custom recipe handler for type botania:orechid
+[05Apr2023 08:17:35.530] [main/INFO] [KubeJS/]: Registered custom recipe handler for type botania:orechid_ignem
+[05Apr2023 08:17:35.530] [main/INFO] [KubeJS/]: Registered custom recipe handler for type botania:marimorphosis
+[05Apr2023 08:17:35.538] [main/INFO] [KubeJS Server/]: Scanning recipes...
+[05Apr2023 08:17:37.019] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[05Apr2023 08:17:37.067] [main/INFO] [FTB Ranks/]: Loading command nodes...
+[05Apr2023 08:17:37.076] [main/INFO] [FTB Ranks/]: Loaded 2395 command nodes
+[05Apr2023 08:17:37.100] [Worker-Main-13/WARN] [HammerLib/]: Unable to find registry for tag directory tags/dimension_type
+[05Apr2023 08:17:37.100] [Worker-Main-16/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/noise
+[05Apr2023 08:17:37.100] [Worker-Main-2/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/configured_carver
+[05Apr2023 08:17:37.100] [Worker-Main-10/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/configured_feature
+[05Apr2023 08:17:37.100] [Worker-Main-19/WARN] [HammerLib/]: Unable to find registry for tag directory tags/chat_type
+[05Apr2023 08:17:37.100] [Worker-Main-21/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/noise_settings
+[05Apr2023 08:17:37.100] [Worker-Main-5/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/template_pool
+[05Apr2023 08:17:37.100] [Worker-Main-4/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/density_function
+[05Apr2023 08:17:37.100] [Worker-Main-14/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/processor_list
+[05Apr2023 08:17:37.103] [Worker-Main-8/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/flat_level_generator_preset
+[05Apr2023 08:17:37.105] [Worker-Main-23/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/world_preset
+[05Apr2023 08:17:37.102] [Worker-Main-11/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/placed_feature
+[05Apr2023 08:17:37.102] [Worker-Main-18/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_set
+[05Apr2023 08:17:37.106] [Worker-Main-13/WARN] [HammerLib/]: Unable to find registry for tag directory tags/custom_stat
+[05Apr2023 08:17:37.106] [Worker-Main-19/WARN] [HammerLib/]: Unable to find registry for tag directory tags/pos_rule_test
+[05Apr2023 08:17:37.107] [Worker-Main-10/WARN] [HammerLib/]: Unable to find registry for tag directory tags/rule_test
+[05Apr2023 08:17:37.108] [Worker-Main-5/WARN] [HammerLib/]: Unable to find registry for tag directory tags/position_source_type
+[05Apr2023 08:17:37.109] [Worker-Main-22/WARN] [HammerLib/]: Unable to find registry for tag directory tags/villager_type
+[05Apr2023 08:17:37.109] [Worker-Main-5/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_pool_entry_type
+[05Apr2023 08:17:37.110] [Worker-Main-9/WARN] [HammerLib/]: Unable to find registry for tag directory tags/game_events
+[05Apr2023 08:17:37.109] [Worker-Main-4/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_function_type
+[05Apr2023 08:17:37.111] [Worker-Main-13/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_condition_type
+[05Apr2023 08:17:37.111] [Worker-Main-20/WARN] [HammerLib/]: Unable to find registry for tag directory tags/float_provider_type
+[05Apr2023 08:17:37.111] [Worker-Main-14/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_score_provider_type
+[05Apr2023 08:17:37.111] [Worker-Main-21/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_number_provider_type
+[05Apr2023 08:17:37.111] [Worker-Main-22/WARN] [HammerLib/]: Unable to find registry for tag directory tags/int_provider_type
+[05Apr2023 08:17:37.111] [Worker-Main-10/WARN] [HammerLib/]: Unable to find registry for tag directory tags/loot_nbt_provider_type
+[05Apr2023 08:17:37.112] [Worker-Main-4/WARN] [HammerLib/]: Unable to find registry for tag directory tags/block_predicate_type
+[05Apr2023 08:17:37.111] [Worker-Main-5/WARN] [HammerLib/]: Unable to find registry for tag directory tags/height_provider_type
+[05Apr2023 08:17:37.112] [Worker-Main-18/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:fortress (from L_Enders_Cataclysm-0.52-1.19.2.jar), minecraft:bastion_remnant (from L_Enders_Cataclysm-0.52-1.19.2.jar)] as it is missing following references: minecraft:fortress (from L_Enders_Cataclysm-0.52-1.19.2.jar), 
+	minecraft:bastion_remnant (from L_Enders_Cataclysm-0.52-1.19.2.jar)
+[05Apr2023 08:17:37.113] [Worker-Main-14/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_placement
+[05Apr2023 08:17:37.114] [Worker-Main-18/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [minecraft:fortress (from L_Enders_Cataclysm-0.52-1.19.2.jar), minecraft:bastion_remnant (from L_Enders_Cataclysm-0.52-1.19.2.jar)] as it is missing following references: minecraft:fortress (from L_Enders_Cataclysm-0.52-1.19.2.jar), 
+	minecraft:bastion_remnant (from L_Enders_Cataclysm-0.52-1.19.2.jar)
+[05Apr2023 08:17:37.114] [Worker-Main-8/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/biome_source
+[05Apr2023 08:17:37.114] [Worker-Main-21/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_piece
+[05Apr2023 08:17:37.114] [Worker-Main-9/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/root_placer_type
+[05Apr2023 08:17:37.114] [Worker-Main-11/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/placement_modifier_type
+[05Apr2023 08:17:37.119] [Worker-Main-18/WARN] [HammerLib/]: Unable to find registry for tag directory tags/cat_variant
+[05Apr2023 08:17:37.117] [Worker-Main-10/WARN] [HammerLib/]: Unable to find registry for tag directory tags/crafttweaker/condition_serializer
+[05Apr2023 08:17:37.117] [Worker-Main-21/WARN] [HammerLib/]: Unable to find registry for tag directory tags/crafttweaker/transformer_serializer
+[05Apr2023 08:17:37.116] [Worker-Main-22/WARN] [HammerLib/]: Unable to find registry for tag directory tags/frog_variant
+[05Apr2023 08:17:37.115] [Worker-Main-14/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_pool_element
+[05Apr2023 08:17:37.115] [Worker-Main-5/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_processor
+[05Apr2023 08:17:37.115] [Worker-Main-4/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/material_condition
+[05Apr2023 08:17:37.115] [Worker-Main-12/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/material_rule
+[05Apr2023 08:17:37.115] [Worker-Main-6/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/density_function_type
+[05Apr2023 08:17:37.115] [Worker-Main-20/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/feature_size_type
+[05Apr2023 08:17:37.115] [Worker-Main-23/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/chunk_generator
+[05Apr2023 08:17:37.115] [Worker-Main-16/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/trunk_placer_type
+[05Apr2023 08:17:37.114] [Worker-Main-15/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure_type
+[05Apr2023 08:17:37.122] [Worker-Main-13/WARN] [HammerLib/]: Unable to find registry for tag directory tags/instrument
+[05Apr2023 08:17:37.122] [Worker-Main-18/WARN] [HammerLib/]: Unable to find registry for tag directory tags/botania/brews
+[05Apr2023 08:17:37.127] [Worker-Main-8/WARN] [HammerLib/]: Unable to find registry for tag directory tags/banner_pattern
+[05Apr2023 08:17:37.127] [Worker-Main-17/WARN] [HammerLib/]: Unable to find registry for tag directory tags/worldgen/structure
+[05Apr2023 08:17:37.127] [Worker-Main-8/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [botania:sapling (from Botania-1.19.2-437-FORGE.jar)] as it is missing following references: botania:sapling (from Botania-1.19.2-437-FORGE.jar)
+[05Apr2023 08:17:37.128] [Worker-Main-8/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [botania:fish (from Botania-1.19.2-437-FORGE.jar), botania:axe (from Botania-1.19.2-437-FORGE.jar), botania:hoe (from Botania-1.19.2-437-FORGE.jar), botania:pickaxe (from Botania-1.19.2-437-FORGE.jar), botania:shovel (from Botania-1.19.2-437-FORGE.jar), botania:sword (from Botania-1.19.2-437-FORGE.jar)] as it is missing following references: botania:fish (from Botania-1.19.2-437-FORGE.jar), 
+	botania:axe (from Botania-1.19.2-437-FORGE.jar), 
+	botania:hoe (from Botania-1.19.2-437-FORGE.jar), 
+	botania:pickaxe (from Botania-1.19.2-437-FORGE.jar), 
+	botania:shovel (from Botania-1.19.2-437-FORGE.jar), 
+	botania:sword (from Botania-1.19.2-437-FORGE.jar)
+[05Apr2023 08:17:37.128] [Worker-Main-8/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [botania:lexicon (from Botania-1.19.2-437-FORGE.jar)] as it is missing following references: botania:lexicon (from Botania-1.19.2-437-FORGE.jar)
+[05Apr2023 08:17:37.128] [Worker-Main-8/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [botania:spark_isolated (from Botania-1.19.2-437-FORGE.jar)] as it is missing following references: botania:spark_isolated (from Botania-1.19.2-437-FORGE.jar)
+[05Apr2023 08:17:37.128] [Worker-Main-8/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [botania:spark_recessive (from Botania-1.19.2-437-FORGE.jar)] as it is missing following references: botania:spark_recessive (from Botania-1.19.2-437-FORGE.jar)
+[05Apr2023 08:17:37.129] [Worker-Main-8/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [botania:spark_dominant (from Botania-1.19.2-437-FORGE.jar)] as it is missing following references: botania:spark_dominant (from Botania-1.19.2-437-FORGE.jar)
+[05Apr2023 08:17:37.129] [Worker-Main-8/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [botania:spark_dispersive (from Botania-1.19.2-437-FORGE.jar)] as it is missing following references: botania:spark_dispersive (from Botania-1.19.2-437-FORGE.jar)
+[05Apr2023 08:17:37.129] [Worker-Main-8/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [botania:logo (from Botania-1.19.2-437-FORGE.jar)] as it is missing following references: botania:logo (from Botania-1.19.2-437-FORGE.jar)
+[05Apr2023 08:17:37.130] [Worker-Main-8/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [botania:tiny_potato (from Botania-1.19.2-437-FORGE.jar)] as it is missing following references: botania:tiny_potato (from Botania-1.19.2-437-FORGE.jar)
+[05Apr2023 08:17:37.130] [Worker-Main-8/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [botania:flower (from Botania-1.19.2-437-FORGE.jar)] as it is missing following references: botania:flower (from Botania-1.19.2-437-FORGE.jar)
+[05Apr2023 08:17:37.134] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [cataclysm:the_harbinger (from L_Enders_Cataclysm-0.52-1.19.2.jar)] as it is missing following references: cataclysm:the_harbinger (from L_Enders_Cataclysm-0.52-1.19.2.jar)
+[05Apr2023 08:17:37.134] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [cataclysm:the_harbinger (from L_Enders_Cataclysm-0.52-1.19.2.jar)] as it is missing following references: cataclysm:the_harbinger (from L_Enders_Cataclysm-0.52-1.19.2.jar)
+[05Apr2023 08:17:37.238] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [create_crystal_clear:steel_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar), create_crystal_clear:steel_tinted_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)] as it is missing following references: create_crystal_clear:steel_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar), 
+	create_crystal_clear:steel_tinted_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)
+[05Apr2023 08:17:37.275] [Worker-Main-7/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag [create_crystal_clear:steel_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar), create_crystal_clear:steel_tinted_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)] as it is missing following references: create_crystal_clear:steel_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar), 
+	create_crystal_clear:steel_tinted_glass_casing (from create_crystal_clear-0.1.2e-1.19.2.jar)
+[05Apr2023 08:17:37.944] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'immersiveengineering:sawmill/echo_log[immersiveengineering:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: immersiveengineering:sawmill
+[05Apr2023 08:17:37.944] [main/WARN] [KubeJS Server/]: Failed to parse recipe immersiveengineering:sawmill/echo_log[immersiveengineering:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:sawmill'
+[05Apr2023 08:17:37.986] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'ars_elemental:jeed/life_link[jeed:effect_provider]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:glyph_life_link'
+[05Apr2023 08:17:37.986] [main/WARN] [KubeJS Server/]: Failed to parse recipe ars_elemental:jeed/life_link[jeed:effect_provider]: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:glyph_life_link'
+[05Apr2023 08:17:37.989] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'ars_elemental:jeed/entrhalled[jeed:effect_provider]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:glyph_charm'
+[05Apr2023 08:17:37.989] [main/WARN] [KubeJS Server/]: Failed to parse recipe ars_elemental:jeed/entrhalled[jeed:effect_provider]: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:glyph_charm'
+[05Apr2023 08:17:38.020] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'extendedgears:crafting/large_steel_cogwheel_from_small[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'forge:ingots/steel'
+[05Apr2023 08:17:38.020] [main/WARN] [KubeJS Server/]: Failed to parse recipe extendedgears:crafting/large_steel_cogwheel_from_small[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'forge:ingots/steel'
+[05Apr2023 08:17:38.032] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'create_confectionery:black_chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:black_chocolate_bricks_wall'
+[05Apr2023 08:17:38.033] [main/WARN] [KubeJS Server/]: Failed to parse recipe create_confectionery:black_chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:black_chocolate_bricks_wall'
+[05Apr2023 08:17:38.048] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'ars_elemental:jeed/watery_grave[jeed:effect_provider]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:glyph_watery_grave'
+[05Apr2023 08:17:38.048] [main/WARN] [KubeJS Server/]: Failed to parse recipe ars_elemental:jeed/watery_grave[jeed:effect_provider]: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:glyph_watery_grave'
+[05Apr2023 08:17:38.059] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'create_confectionery:white_chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:white_chocolate_bricks_wall'
+[05Apr2023 08:17:38.059] [main/WARN] [KubeJS Server/]: Failed to parse recipe create_confectionery:white_chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:white_chocolate_bricks_wall'
+[05Apr2023 08:17:38.079] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'create_things_and_misc:schematic_chair[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[05Apr2023 08:17:38.079] [main/WARN] [KubeJS Server/]: Failed to parse recipe create_things_and_misc:schematic_chair[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[05Apr2023 08:17:38.081] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'create_sa:magma_cream_recipe[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:slime'
+[05Apr2023 08:17:38.081] [main/WARN] [KubeJS Server/]: Failed to parse recipe create_sa:magma_cream_recipe[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:slime'
+[05Apr2023 08:17:38.090] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'create:sequenced_assembly/cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:incomplete_cogwheel'
+[05Apr2023 08:17:38.091] [main/WARN] [KubeJS Server/]: Failed to parse recipe create:sequenced_assembly/cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'create:incomplete_cogwheel'
+[05Apr2023 08:17:38.096] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'create_confectionery:chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:chocolate_bricks_wall'
+[05Apr2023 08:17:38.096] [main/WARN] [KubeJS Server/]: Failed to parse recipe create_confectionery:chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:chocolate_bricks_wall'
+[05Apr2023 08:17:38.143] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'immersiveengineering:sawmill/stripped_echo_log[immersiveengineering:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: immersiveengineering:sawmill
+[05Apr2023 08:17:38.144] [main/WARN] [KubeJS Server/]: Failed to parse recipe immersiveengineering:sawmill/stripped_echo_log[immersiveengineering:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:sawmill'
+[05Apr2023 08:17:38.147] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'create_confectionery:ruby_chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:ruby_chocolate_brick_wall'
+[05Apr2023 08:17:38.147] [main/WARN] [KubeJS Server/]: Failed to parse recipe create_confectionery:ruby_chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:ruby_chocolate_brick_wall'
+[05Apr2023 08:17:38.152] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'create:sequenced_assembly/large_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:incomplete_large_cogwheel'
+[05Apr2023 08:17:38.152] [main/WARN] [KubeJS Server/]: Failed to parse recipe create:sequenced_assembly/large_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'create:incomplete_large_cogwheel'
+[05Apr2023 08:17:38.186] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'immersiveengineering:sawmill/echo_stairs[immersiveengineering:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: immersiveengineering:sawmill
+[05Apr2023 08:17:38.186] [main/WARN] [KubeJS Server/]: Failed to parse recipe immersiveengineering:sawmill/echo_stairs[immersiveengineering:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:sawmill'
+[05Apr2023 08:17:38.192] [main/WARN] [KubeJS Server/]: Failed to parse recipe 'immersiveengineering:sawmill/echo_door[immersiveengineering:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: immersiveengineering:sawmill
+[05Apr2023 08:17:38.192] [main/WARN] [KubeJS Server/]: Failed to parse recipe immersiveengineering:sawmill/echo_door[immersiveengineering:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:sawmill'
+[05Apr2023 08:17:38.197] [main/INFO] [KubeJS Server/]: Found 13214 recipes and 0 failed recipes in 299.7 ms
+[05Apr2023 08:17:38.199] [main/INFO] [KubeJS Server/]: Posted recipe events in 1.234 ms
+[05Apr2023 08:17:38.248] [main/INFO] [HammerLib/]: Reloading HammerLib recipes...
+[05Apr2023 08:17:38.249] [main/INFO] [HammerLib/]: HammerLib injected 54 recipes into recipe map. Removed 2 recipes from the game.
+[05Apr2023 08:17:38.249] [main/INFO] [HammerLib/]: Reloading 0 custom registries.
+[05Apr2023 08:17:38.250] [main/INFO] [HammerLib/]: 0 custom registries reloaded, added 0 total recipes.
+[05Apr2023 08:17:38.250] [main/INFO] [HammerLib/]: Hello KubeJS, this is your 'friend', HammerLib! I injected 54 recipes in your flawed recipe registration system! :)
+[05Apr2023 08:17:38.352] [main/INFO] [KubeJS Server/]: Modified & removed recipes in 101.9 ms
+[05Apr2023 08:17:38.353] [main/INFO] [KubeJS Server/]: Added recipes in 252.6 μs
+[05Apr2023 08:17:38.359] [main/INFO] [KubeJS Server/]: Added 0 recipes, removed 2 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[05Apr2023 08:17:38.368] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Loot Modification Manager has loaded 5 modifier groups
+[05Apr2023 08:17:38.396] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/wrapped_ice_chains
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dustrial_decor:wrapped_ice_chains'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.kjs$apply0(LootTablesKJS.java:39) ~[kubejs-forge-1902.6.0-build.140.jar%23362!/:1902.6.0-build.140]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zze000$kjs$apply(LootTables.java:523) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[05Apr2023 08:17:38.491] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table extendedgears:blocks/large_brass_cogwheel
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'extendedgears:large_brass_cogwheel'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.kjs$apply0(LootTablesKJS.java:39) ~[kubejs-forge-1902.6.0-build.140.jar%23362!/:1902.6.0-build.140]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zze000$kjs$apply(LootTables.java:523) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[05Apr2023 08:17:38.501] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/large_ender_lantern
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dustrial_decor:large_ender_lantern'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.kjs$apply0(LootTablesKJS.java:39) ~[kubejs-forge-1902.6.0-build.140.jar%23362!/:1902.6.0-build.140]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zze000$kjs$apply(LootTables.java:523) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[05Apr2023 08:17:38.582] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table create_crystal_clear:blocks/steel_tinted_glass_casing
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'create_crystal_clear:steel_tinted_glass_casing'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.kjs$apply0(LootTablesKJS.java:39) ~[kubejs-forge-1902.6.0-build.140.jar%23362!/:1902.6.0-build.140]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zze000$kjs$apply(LootTables.java:523) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[05Apr2023 08:17:38.606] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/large_cursed_lantern
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dustrial_decor:large_cursed_lantern'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.kjs$apply0(LootTablesKJS.java:39) ~[kubejs-forge-1902.6.0-build.140.jar%23362!/:1902.6.0-build.140]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zze000$kjs$apply(LootTables.java:523) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[05Apr2023 08:17:38.792] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/large_ice_chain
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dustrial_decor:large_ice_chain'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.kjs$apply0(LootTablesKJS.java:39) ~[kubejs-forge-1902.6.0-build.140.jar%23362!/:1902.6.0-build.140]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zze000$kjs$apply(LootTables.java:523) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[05Apr2023 08:17:38.819] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/rusty_sheet_metal_paneling_vertical_slab
+java.lang.IllegalArgumentException: Can't find block dustrial_decor:rusty_sheet_metal_paneling_vertical_slab
+	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_7561_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_7561_(LootItemBlockStatePropertyCondition.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction$Serializer.m_7561_(LootItemConditionalFunction.java:98) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction$Serializer.m_7561_(LootItemConditionalFunction.java:88) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.kjs$apply0(LootTablesKJS.java:39) ~[kubejs-forge-1902.6.0-build.140.jar%23362!/:1902.6.0-build.140]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zze000$kjs$apply(LootTables.java:523) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[05Apr2023 08:17:38.871] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table extendedgears:blocks/brass_cogwheel
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'extendedgears:brass_cogwheel'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.kjs$apply0(LootTablesKJS.java:39) ~[kubejs-forge-1902.6.0-build.140.jar%23362!/:1902.6.0-build.140]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zze000$kjs$apply(LootTables.java:523) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[05Apr2023 08:17:39.032] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/sheet_metal_paneling_vertical_slab
+java.lang.IllegalArgumentException: Can't find block dustrial_decor:sheet_metal_paneling_vertical_slab
+	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_7561_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_7561_(LootItemBlockStatePropertyCondition.java:68) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction$Serializer.m_7561_(LootItemConditionalFunction.java:98) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.functions.LootItemConditionalFunction$Serializer.m_7561_(LootItemConditionalFunction.java:88) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.kjs$apply0(LootTablesKJS.java:39) ~[kubejs-forge-1902.6.0-build.140.jar%23362!/:1902.6.0-build.140]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zze000$kjs$apply(LootTables.java:523) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[05Apr2023 08:17:39.105] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table create_crystal_clear:blocks/steel_glass_casing
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'create_crystal_clear:steel_glass_casing'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.kjs$apply0(LootTablesKJS.java:39) ~[kubejs-forge-1902.6.0-build.140.jar%23362!/:1902.6.0-build.140]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zze000$kjs$apply(LootTables.java:523) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[05Apr2023 08:17:39.109] [main/ERROR] [net.minecraft.world.level.storage.loot.LootTables/]: Couldn't parse loot table dustrial_decor:blocks/large_glow_lantern
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dustrial_decor:large_glow_lantern'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:137) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:145) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:463) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:190) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:455) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:473) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:256) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:253) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:929) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.lambda$apply$0(LootTables.java:41) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at dev.latvian.mods.kubejs.core.LootTablesKJS.kjs$apply0(LootTablesKJS.java:39) ~[kubejs-forge-1902.6.0-build.140.jar%23362!/:1902.6.0-build.140]
+	at net.minecraft.world.level.storage.loot.LootTables.redirect$zze000$kjs$apply(LootTables.java:523) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:38) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.world.level.storage.loot.LootTables.m_5787_(LootTables.java:16) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[05Apr2023 08:17:39.181] [main/INFO] [placebo/]: Registered 0 additional loot tables.
+[05Apr2023 08:17:39.183] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Skipped modifier named 'savage_and_ravage:adventure/voluntary_exile' as its conditions were not met
+[05Apr2023 08:17:39.184] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Skipped modifier named 'savage_and_ravage:adventure/voluntary_exile' as its conditions were not met
+[05Apr2023 08:17:39.186] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Advancement Modification Manager has loaded 5 modifier groups
+[05Apr2023 08:17:39.187] [main/WARN] [HammerLib/]: Unable to find registry for tag directory tags/functions
+[05Apr2023 08:17:39.189] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement delightful:recipes/cutting/cactus: Missing advancement, expected to find a JsonObject
+[05Apr2023 08:17:39.193] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement delightful:recipes/cutting/salmonberry_pie: Missing advancement, expected to find a JsonObject
+[05Apr2023 08:17:39.230] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement delightful:recipes/cutting/cantaloupe: Missing advancement, expected to find a JsonObject
+[05Apr2023 08:17:39.240] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement delightful:recipes/cutting/mini_melon: Missing advancement, expected to find a JsonObject
+[05Apr2023 08:17:39.250] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement delightful:recipes/cutting/pumpkin_pie: Missing advancement, expected to find a JsonObject
+[05Apr2023 08:17:39.258] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement delightful:recipes/cutting/source_berry_pie: Missing advancement, expected to find a JsonObject
+[05Apr2023 08:17:39.295] [main/INFO] [quark/]: [Automatic Recipe Unlock] Removed 5872 recipe advancements
+[05Apr2023 08:17:39.305] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 868 advancements
+[05Apr2023 08:17:39.314] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[05Apr2023 08:17:39.315] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[05Apr2023 08:17:39.329] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Structure Repaletter Manager has loaded 0 repaletters
+[05Apr2023 08:17:39.333] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Modded Biome Slice Manager has loaded 1 slices
+[05Apr2023 08:17:39.333] [main/INFO] [com.teamabnormals.blueprint.core.Blueprint/]: Chunk Generator Modification Manager has loaded 0 modifier groups
+[05Apr2023 08:17:39.337] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Unable to decode loot conditions
+com.google.gson.JsonSyntaxException: Unknown type ''
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1034) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1006) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.common.loot.IGlobalLootModifier.lambda$static$1(IGlobalLootModifier.java:39) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at com.mojang.serialization.Decoder$1.lambda$decode$1(Decoder.java:49) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.Decoder$1.decode(Decoder.java:49) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.Codec$2.decode(Codec.java:71) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.FieldDecoder.decode(FieldDecoder.java:29) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.MapCodec$1.decode(MapCodec.java:34) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$Instance$3.decode(RecordCodecBuilder.java:248) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.RecordCodecBuilder$2.decode(RecordCodecBuilder.java:107) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$1(KeyDispatchCodec.java:67) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.lambda$decode$2(KeyDispatchCodec.java:58) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.codecs.KeyDispatchCodec.decode(KeyDispatchCodec.java:56) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.MapDecoder.lambda$compressedDecode$0(MapDecoder.java:52) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.lambda$flatMap$10(DataResult.java:138) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.DataResult.flatMap(DataResult.java:136) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.MapDecoder.compressedDecode(MapDecoder.java:52) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.MapCodec$MapCodecCodec.decode(MapCodec.java:91) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at com.mojang.serialization.Decoder.parse(Decoder.java:18) ~[datafixerupper-5.0.28.jar%2375!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.apply(LootModifierManager.java:79) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraftforge.common.loot.LootModifierManager.m_5787_(LootModifierManager.java:38) ~[forge-1.19.2-43.2.0-universal.jar%23428!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:781) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:770) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at net.minecraft.server.Main.main(Main.java:157) ~[server-1.19.2-20220805.130853-srg.jar%23423!/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:578) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$launchService$0(CommonServerLaunchHandler.java:29) ~[fmlloader-1.19.2-43.2.0.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:106) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) [bootstraplauncher-1.1.2.jar:?]
+[05Apr2023 08:17:39.338] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown type ''
+[05Apr2023 08:17:39.339] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id callablehorses:horse_drop - error: Input does not contain a key [type]: MapLike[{"conditions":[{"condition":"minecraft:entity_properties","predicate":{"type":"#callablehorses:callablehorses"},"entity":"THIS"}]}]
+[05Apr2023 08:17:39.343] [main/INFO] [supplementaries/]: Loaded  8 flute songs
+[05Apr2023 08:17:39.358] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/wax_on with 2 patches
+[05Apr2023 08:17:39.358] [main/INFO] [quark/]: Modified advancement minecraft:adventure/kill_a_mob with 3 patches
+[05Apr2023 08:17:39.358] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/bred_all_animals with 3 patches
+[05Apr2023 08:17:39.358] [main/INFO] [quark/]: Modified advancement minecraft:adventure/kill_all_mobs with 3 patches
+[05Apr2023 08:17:39.358] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/balanced_diet with 2 patches
+[05Apr2023 08:17:39.358] [main/INFO] [quark/]: Modified advancement minecraft:nether/all_effects with 1 patches
+[05Apr2023 08:17:39.359] [main/INFO] [quark/]: Modified advancement minecraft:husbandry/wax_off with 2 patches
+[05Apr2023 08:17:39.359] [main/INFO] [quark/]: Modified advancement minecraft:adventure/adventuring_time with 1 patches
+[05Apr2023 08:17:39.359] [main/INFO] [quark/]: Modified advancement minecraft:nether/all_potions with 1 patches
+[05Apr2023 08:17:39.362] [main/INFO] [CraftTweaker/]: crafttweaker.reload.start
+[05Apr2023 08:17:39.438] [main/INFO] [CraftTweaker/]: crafttweaker.reload.complete
+[05Apr2023 08:17:39.442] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:is_end
+[05Apr2023 08:17:41.667] [main/INFO] [com.github.alexthe668.iwannaskate.IWannaSkateMod/]: reloading skateboard materials
+[05Apr2023 08:17:41.695] [main/INFO] [supplementaries/]: Finished additional setup in 24 ms
+[05Apr2023 08:17:41.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[05Apr2023 08:17:41.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05Apr2023 08:17:42.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05Apr2023 08:17:42.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05Apr2023 08:17:42.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[05Apr2023 08:17:42.035] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[05Apr2023 08:17:42.147] [Server thread/INFO] [de.geheimagentnr1.auto_restart.config.ServerConfig/]: Loading "Auto Restart" Server Config
+[05Apr2023 08:17:42.147] [Server thread/INFO] [de.geheimagentnr1.auto_restart.config.ServerConfig/]: [restart, use_external_restart_script] = false
+[05Apr2023 08:17:42.148] [Server thread/INFO] [de.geheimagentnr1.auto_restart.config.ServerConfig/]: [restart, restart_command] = 
+[05Apr2023 08:17:42.148] [Server thread/INFO] [de.geheimagentnr1.auto_restart.config.ServerConfig/]: [auto_restart, enabled] = false
+[05Apr2023 08:17:42.149] [Server thread/INFO] [de.geheimagentnr1.auto_restart.config.ServerConfig/]: [auto_restart, times] = [14:00, 16:32]
+[05Apr2023 08:17:42.149] [Server thread/INFO] [de.geheimagentnr1.auto_restart.config.ServerConfig/]: [auto_restart, on_crash] = false
+[05Apr2023 08:17:42.149] [Server thread/INFO] [de.geheimagentnr1.auto_restart.config.ServerConfig/]: [auto_restart, warning_times] = [5s, 4s, 3s, 2s, 1s]
+[05Apr2023 08:17:42.149] [Server thread/INFO] [de.geheimagentnr1.auto_restart.config.ServerConfig/]: [on_empty_restart, enabled] = false
+[05Apr2023 08:17:42.149] [Server thread/INFO] [de.geheimagentnr1.auto_restart.config.ServerConfig/]: [on_empty_restart, delay] = 10m
+[05Apr2023 08:17:42.150] [Server thread/INFO] [de.geheimagentnr1.auto_restart.config.ServerConfig/]: "Auto Restart" Server Config loaded
+[05Apr2023 08:17:42.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: BETA Current: 4.2.1493 Target: null
+[05Apr2023 08:17:42.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/forge/update.json
+[05Apr2023 08:17:42.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: OUTDATED Current: 1.19.2-2.2.45 Target: 1.19.2-2.3.1
+[05Apr2023 08:17:42.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [botanicadds] Starting version check at http://h.zeith.org/api/fmluc/310637
+[05Apr2023 08:17:42.288] [Server thread/INFO] [FTB Teams/]: loaded team data: 3 known players, 3 teams total
+[05Apr2023 08:17:42.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [botanicadds] Found status: UP_TO_DATE Current: 19.3.2 Target: null
+[05Apr2023 08:17:42.302] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at https://www.olafkeijsers.net/fastleafdecay-update.json
+[05Apr2023 08:17:42.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05Apr2023 08:17:42.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05Apr2023 08:17:42.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: BETA Current: 30 Target: null
+[05Apr2023 08:17:42.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [codechickenlib] Starting version check at https://version-check.covers1624.net/check/?mod=CodeChickenLib&mc=1.19.2
+[05Apr2023 08:17:43.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [codechickenlib] Found status: OUTDATED Current: 4.3.0.470 Target: 4.3.1.481
+[05Apr2023 08:17:43.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/obscure_api/versions.json
+[05Apr2023 08:17:43.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [obscure_api] Found status: UP_TO_DATE Current: 14 Target: null
+[05Apr2023 08:17:43.680] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.19.2
+[05Apr2023 08:17:43.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 9.0.0+14 Target: 9.0.0+14
+[05Apr2023 08:17:43.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enderstorage] Starting version check at https://version-check.covers1624.net/check/?mod=EnderStorage&mc=1.19.2
+[05Apr2023 08:17:43.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enderstorage] Found status: UP_TO_DATE Current: 2.10.1.181 Target: null
+[05Apr2023 08:17:43.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Starting version check at https://updates.blamejared.com/get?n=crafttweaker&gv=1.19.2
+[05Apr2023 08:17:44.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [crafttweaker] Found status: BETA_OUTDATED Current: 10.1.33 Target: 10.1.41
+[05Apr2023 08:17:44.114] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strongfarmland] Starting version check at https://raw.githubusercontent.com/Lothrazar/StrongerFarmland/trunk/1.19/update.json
+[05Apr2023 08:17:44.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [strongfarmland] Found status: BETA Current: 1.19-1.1.1 Target: null
+[05Apr2023 08:17:44.202] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[05Apr2023 08:17:44.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.2.0 Target: null
+[05Apr2023 08:17:44.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[05Apr2023 08:17:44.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: OUTDATED Current: 1.19.2-2.2.3 Target: 1.19.2-2.2.28
+[05Apr2023 08:17:44.303] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createtweaker] Starting version check at https://updates.blamejared.com/get?n=createtweaker&gv=1.19.2
+[05Apr2023 08:17:44.404] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2023 08:17:44.410] [Worker-Main-20/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2023 08:17:44.414] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2023 08:17:44.417] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2023 08:17:44.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [createtweaker] Found status: BETA_OUTDATED Current: 3.0.0.2 Target: 3.0.0.5
+[05Apr2023 08:17:44.419] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[05Apr2023 08:17:44.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.4 Target: null
+[05Apr2023 08:17:44.734] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[05Apr2023 08:17:44.747] [Worker-Main-17/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[05Apr2023 08:17:44.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.8.a-14 Target: null
+[05Apr2023 08:17:44.879] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[05Apr2023 08:17:45.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: OUTDATED Current: 0.1.8 Target: 0.1.9
+[05Apr2023 08:17:45.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [effecttooltips] Starting version check at https://updates.blamejared.com/get?n=effecttooltips&gv=1.19.2
+[05Apr2023 08:17:45.104] [Worker-Main-11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[05Apr2023 08:17:45.153] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [effecttooltips] Found status: BETA Current: 5.1.3 Target: 5.1.3
+[05Apr2023 08:17:45.153] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[05Apr2023 08:17:45.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 4.3.12 Target: null
+[05Apr2023 08:17:45.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Starting version check at https://api.modrinth.com/updates/betterf3/forge_updates.json
+[05Apr2023 08:17:45.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [betterf3] Found status: UP_TO_DATE Current: 4.0.0 Target: null
+[05Apr2023 08:17:45.226] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [delightful] Starting version check at https://raw.githubusercontent.com/brnbrd/Delightful/1.19/update/update.json
+[05Apr2023 08:17:45.262] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [delightful] Found status: BETA Current: 3.2.2 Target: null
+[05Apr2023 08:17:45.263] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Starting version check at https://raw.githubusercontent.com/ObscuriaLithium/Home/main/aquamirae/versions.json
+[05Apr2023 08:17:45.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [aquamirae] Found status: UP_TO_DATE Current: 5.6.API14 Target: null
+[05Apr2023 08:17:45.318] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2715 ms
+[05Apr2023 08:17:45.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.187s)! For help, type "help"
+[05Apr2023 08:17:45.346] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[05Apr2023 08:17:45.349] [Server thread/INFO] [de.geheimagentnr1.auto_restart.util.ServerRestarter/]: Saving restart status "EXCEPTION" to file
+[05Apr2023 08:17:45.350] [Server thread/INFO] [HammerLib/]: Reloading recipes in 0 HL recipe registries.
+[05Apr2023 08:17:45.357] [Server thread/INFO] [FTB Ranks/]: Loaded 3 ranks
+[05Apr2023 08:17:47.552] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 117125 bytes (in 12 string chunks with the size of 10000)
+[05Apr2023 08:17:47.553] [Server thread/INFO] [patchouli/]: Sending reload packet to clients

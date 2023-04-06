@@ -1,0 +1,30 @@
+[08:17:14.691][INFO]: Successfully injected RecipeFS file system
+[08:17:14.756][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[08:17:14.759][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[08:17:14.761][INFO]: Successfully identified and loaded plugin mekanism:crt_plugin
+[08:17:14.763][INFO]: Successfully identified and loaded plugin createtweaker:main
+[08:17:15.440][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[08:17:15.441][INFO]: - 'crafttweaker' at version '10.1.33'
+[08:17:15.441][INFO]: - 'createtweaker' at version '3.0.0.2'
+[08:17:15.441][INFO]: - 'mekanism' at version '10.3.6'
+[08:17:29.217][INFO]: Started loading scripts for loader 'mekanismcontent'
+[08:17:29.333][INFO]: Compiling and executing scripts
+[08:17:29.569][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[08:17:29.624][INFO]: Execution for loader 'mekanismcontent' completed successfully
+[08:17:29.624][INFO]: Registering 0 custom gases.
+[08:17:29.628][INFO]: Registering 0 custom infuse types.
+[08:17:29.634][INFO]: Registering 0 custom pigments.
+[08:17:29.636][INFO]: Registering 0 custom robit skins.
+[08:17:29.639][INFO]: Registering 0 custom slurries.
+[08:17:29.842][INFO]: Started loading scripts for loader 'initialize'
+[08:17:29.856][INFO]: Compiling and executing scripts
+[08:17:29.857][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[08:17:29.862][INFO]: Execution for loader 'initialize' completed successfully
+[08:17:37.879][INFO]: Started loading scripts for loader 'tags'
+[08:17:37.888][INFO]: Compiling and executing scripts
+[08:17:37.890][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[08:17:37.894][INFO]: Execution for loader 'tags' completed successfully
+[08:17:39.366][INFO]: Started loading scripts for loader 'crafttweaker'
+[08:17:39.376][INFO]: Compiling and executing scripts
+[08:17:39.432][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[08:17:39.437][INFO]: Execution for loader 'crafttweaker' completed successfully

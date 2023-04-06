@@ -1,0 +1,42 @@
+[08:17:35] [INFO ] server_scripts:script.js:3: Hello, World! (You will see this line every time server resources reload)
+[08:17:35] [INFO ] Loaded script server_scripts:script.js in 0.001 s
+[08:17:35] [INFO ] Loaded 1/1 KubeJS server scripts in 0.004 s
+[08:17:35] [INFO ] Scripts loaded
+[08:17:35] [INFO ] Scanning recipes...
+[08:17:37] [WARN ] Failed to parse recipe 'immersiveengineering:sawmill/echo_log[immersiveengineering:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: immersiveengineering:sawmill
+[08:17:37] [WARN ] Failed to parse recipe immersiveengineering:sawmill/echo_log[immersiveengineering:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:sawmill'
+[08:17:37] [WARN ] Failed to parse recipe 'ars_elemental:jeed/life_link[jeed:effect_provider]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:glyph_life_link'
+[08:17:37] [WARN ] Failed to parse recipe ars_elemental:jeed/life_link[jeed:effect_provider]: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:glyph_life_link'
+[08:17:37] [WARN ] Failed to parse recipe 'ars_elemental:jeed/entrhalled[jeed:effect_provider]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:glyph_charm'
+[08:17:37] [WARN ] Failed to parse recipe ars_elemental:jeed/entrhalled[jeed:effect_provider]: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:glyph_charm'
+[08:17:38] [WARN ] Failed to parse recipe 'extendedgears:crafting/large_steel_cogwheel_from_small[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'forge:ingots/steel'
+[08:17:38] [WARN ] Failed to parse recipe extendedgears:crafting/large_steel_cogwheel_from_small[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'forge:ingots/steel'
+[08:17:38] [WARN ] Failed to parse recipe 'create_confectionery:black_chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:black_chocolate_bricks_wall'
+[08:17:38] [WARN ] Failed to parse recipe create_confectionery:black_chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:black_chocolate_bricks_wall'
+[08:17:38] [WARN ] Failed to parse recipe 'ars_elemental:jeed/watery_grave[jeed:effect_provider]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:glyph_watery_grave'
+[08:17:38] [WARN ] Failed to parse recipe ars_elemental:jeed/watery_grave[jeed:effect_provider]: com.google.gson.JsonSyntaxException: Unknown item 'ars_nouveau:glyph_watery_grave'
+[08:17:38] [WARN ] Failed to parse recipe 'create_confectionery:white_chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:white_chocolate_bricks_wall'
+[08:17:38] [WARN ] Failed to parse recipe create_confectionery:white_chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:white_chocolate_bricks_wall'
+[08:17:38] [WARN ] Failed to parse recipe 'create_things_and_misc:schematic_chair[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[08:17:38] [WARN ] Failed to parse recipe create_things_and_misc:schematic_chair[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:deleted_mod_element'
+[08:17:38] [WARN ] Failed to parse recipe 'create_sa:magma_cream_recipe[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:slime'
+[08:17:38] [WARN ] Failed to parse recipe create_sa:magma_cream_recipe[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:slime'
+[08:17:38] [WARN ] Failed to parse recipe 'create:sequenced_assembly/cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:incomplete_cogwheel'
+[08:17:38] [WARN ] Failed to parse recipe create:sequenced_assembly/cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'create:incomplete_cogwheel'
+[08:17:38] [WARN ] Failed to parse recipe 'create_confectionery:chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:chocolate_bricks_wall'
+[08:17:38] [WARN ] Failed to parse recipe create_confectionery:chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:chocolate_bricks_wall'
+[08:17:38] [WARN ] Failed to parse recipe 'immersiveengineering:sawmill/stripped_echo_log[immersiveengineering:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: immersiveengineering:sawmill
+[08:17:38] [WARN ] Failed to parse recipe immersiveengineering:sawmill/stripped_echo_log[immersiveengineering:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:sawmill'
+[08:17:38] [WARN ] Failed to parse recipe 'create_confectionery:ruby_chocolate_recipe_6[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:ruby_chocolate_brick_wall'
+[08:17:38] [WARN ] Failed to parse recipe create_confectionery:ruby_chocolate_recipe_6[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'create_confectionery:ruby_chocolate_brick_wall'
+[08:17:38] [WARN ] Failed to parse recipe 'create:sequenced_assembly/large_cogwheel[create:sequenced_assembly]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:incomplete_large_cogwheel'
+[08:17:38] [WARN ] Failed to parse recipe create:sequenced_assembly/large_cogwheel[create:sequenced_assembly]: com.google.gson.JsonSyntaxException: Unknown item 'create:incomplete_large_cogwheel'
+[08:17:38] [WARN ] Failed to parse recipe 'immersiveengineering:sawmill/echo_stairs[immersiveengineering:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: immersiveengineering:sawmill
+[08:17:38] [WARN ] Failed to parse recipe immersiveengineering:sawmill/echo_stairs[immersiveengineering:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:sawmill'
+[08:17:38] [WARN ] Failed to parse recipe 'immersiveengineering:sawmill/echo_door[immersiveengineering:sawmill]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: immersiveengineering:sawmill
+[08:17:38] [WARN ] Failed to parse recipe immersiveengineering:sawmill/echo_door[immersiveengineering:sawmill]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:sawmill'
+[08:17:38] [INFO ] Found 13214 recipes and 0 failed recipes in 299.7 ms
+[08:17:38] [INFO ] Posted recipe events in 1.234 ms
+[08:17:38] [INFO ] Modified & removed recipes in 101.9 ms
+[08:17:38] [INFO ] Added recipes in 252.6 μs
+[08:17:38] [INFO ] Added 0 recipes, removed 2 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
